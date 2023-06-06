@@ -1,0 +1,13 @@
+chr3_GPR15 : model = 8 , p-value = 0.012316037550557768 , omega = 2.48290
+chr2_CXCR1 : model = 2 , p-value = 7.36465690988064e-05 , omega = 7.33270
+chr2_CXCR1 : model = 8 , p-value = 5.6605522887331894e-05 , omega = 7.12811
+chr3_CCR3 : model = 2 , p-value = 0.0024396175347891624 , omega = 4.98588
+chr3_CCR3 : model = 8 , p-value = 0.00031102788108872126 , omega = 4.12280
+chr3_CXCR6 : model = 8 , p-value = 0.03924736385262051 , omega = 2.52719
+chr3_CCRL2 : model = 2 , p-value = 0.005443042997312353 , omega = 2.19918
+chr3_CCRL2 : model = 8 , p-value = 0.0033545085572103117 , omega = 2.07638
+chrX_CXCR3 : model = 2 , p-value = 0.009848530724004378 , omega = 5.83040
+chrX_CXCR3 : model = 8 , p-value = 0.00018686166018366812 , omega = 5.69603
+chr1_CR2 : model = 2 , p-value = 6.583532563098071e-05 , omega = 4.72393
+chr1_CR2 : model = 8 , p-value = 3.1227420092316827e-05 , omega = 4.40494
+chr11_TH : model = 8 , p-value = 0.0019320628744697865 , omega = 1.66967

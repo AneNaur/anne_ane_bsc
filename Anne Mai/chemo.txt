@@ -1,0 +1,34 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2708
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww22740\viewh9480\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+HGNC ID	Approved symbol	Approved name	Status	Locus type	Previous symbols	Alias symbols	Chromosome	NCBI Gene ID	Ensembl gene ID	Vega gene ID	Group ID	Group name\
+HGNC:4035	ACKR1	atypical chemokine receptor 1 (Duffy blood group)	Approved	gene with protein product	FY, DARC	CCBP1, GPD, Dfy, CD234	1q23.2	2532	ENSG00000213088	OTTHUMG00000037182	1090	Atypical chemokine receptors\
+HGNC:1565	ACKR2	atypical chemokine receptor 2	Approved	gene with protein product	CMKBR9, CCBP2	CCR10, D6, CCR9	3p22.1	1238	ENSG00000144648	OTTHUMG00000186377	1090	Atypical chemokine receptors\
+HGNC:23692	ACKR3	atypical chemokine receptor 3	Approved	gene with protein product	CMKOR1, CXCR7	RDC1, GPR159	2q37.3	57007	ENSG00000144476	OTTHUMG00000133295	1090	Atypical chemokine receptors\
+HGNC:1611	ACKR4	atypical chemokine receptor 4	Approved	gene with protein product	CCRL1	CCR11, CCBP2, VSHK1, CCX-CKR, PPR1	3q22.1	51554	ENSG00000129048	OTTHUMG00000159768	1090	Atypical chemokine receptors\
+HGNC:1612	CCRL2	C-C motif chemokine receptor like 2	Approved	gene with protein product		HCR, CRAM-B, CKRX, CRAM-A, ACKR5	3p21.31	9034	ENSG00000121797	OTTHUMG00000156318	1090	Atypical chemokine receptors\
+HGNC:21043	PITPNM3	PITPNM family member 3	Approved	gene with protein product	CORD5	NIR1, RDGBA3, ACKR6	17p13.2-p13.1	83394	ENSG00000091622	OTTHUMG00000102039	1090	Atypical chemokine receptors\
+HGNC:1602	CCR1	C-C motif chemokine receptor 1	Approved	gene with protein product	SCYAR1, CMKBR1	CKR-1, MIP1aR, CD191	3p21.31	1230	ENSG00000163823	OTTHUMG00000133451	1091	C-C motif chemokine receptors\
+HGNC:4474	CCR10	C-C motif chemokine receptor 10	Approved	gene with protein product	GPR2		17q21.2	2826	ENSG00000184451	OTTHUMG00000132301	1091	C-C motif chemokine receptors\
+HGNC:1603	CCR2	C-C motif chemokine receptor 2	Approved	gene with protein product	CMKBR2	CC-CKR-2, CKR2, MCP-1-R, CD192, FLJ78302	3p21.31	729230	ENSG00000121807	OTTHUMG00000156466	1091	C-C motif chemokine receptors\
+HGNC:1604	CCR3	C-C motif chemokine receptor 3	Approved	gene with protein product	CMKBR3	CC-CKR-3, CKR3, CD193	3p21.31	1232	ENSG00000183625	OTTHUMG00000133484	1091	C-C motif chemokine receptors\
+HGNC:1605	CCR4	C-C motif chemokine receptor 4	Approved	gene with protein product		CC-CKR-4, CMKBR4, CKR4, k5-5, ChemR13, CD194	3p22.3	1233	ENSG00000183813	OTTHUMG00000130752	1091	C-C motif chemokine receptors\
+HGNC:1606	CCR5	C-C motif chemokine receptor 5	Approved	gene with protein product	CMKBR5	CKR-5, CC-CKR-5, CKR5, CD195, IDDM22	3p21.31	1234	ENSG00000160791	OTTHUMG00000133481	1091	C-C motif chemokine receptors\
+HGNC:1607	CCR6	C-C motif chemokine receptor 6	Approved	gene with protein product	STRL22	CKR-L3, GPR-CY4, CMKBR6, GPR29, DRY-6, DCR2, BN-1, CD196	6q27	1235	ENSG00000112486	OTTHUMG00000016015	1091	C-C motif chemokine receptors\
+HGNC:1608	CCR7	C-C motif chemokine receptor 7	Approved	gene with protein product	CMKBR7, EBI1	BLR2, CDw197, CD197	17q21.2	1236	ENSG00000126353	OTTHUMG00000133375	1091	C-C motif chemokine receptors\
+HGNC:1609	CCR8	C-C motif chemokine receptor 8	Approved	gene with protein product	CMKBRL2, CMKBR8	CY6, TER1, CKR-L1, GPR-CY6, CDw198	3p22.1	1237	ENSG00000179934	OTTHUMG00000131290	1091	C-C motif chemokine receptors\
+HGNC:1610	CCR9	C-C motif chemokine receptor 9	Approved	gene with protein product	GPR28	GPR-9-6, CDw199	3p21.31	10803	ENSG00000173585	OTTHUMG00000133450	1091	C-C motif chemokine receptors\
+HGNC:2558	CX3CR1	C-X3-C motif chemokine receptor 1	Approved	gene with protein product	GPR13, CMKBRL1	CMKDR1, V28, CCRL1	3p22.2	1524	ENSG00000168329	OTTHUMG00000156249	1093	C-X-3-C motif chemokine receptors\
+HGNC:6026	CXCR1	C-X-C motif chemokine receptor 1	Approved	gene with protein product	CMKAR1, IL8RA	CKR-1, CDw128a, CD181	2q35	3577	ENSG00000163464	OTTHUMG00000133108	1094	C-X-C motif chemokine receptors\
+HGNC:6027	CXCR2	C-X-C motif chemokine receptor 2	Approved	gene with protein product	IL8RB	CMKAR2, CD182	2q35	3579	ENSG00000180871	OTTHUMG00000133107	1094	C-X-C motif chemokine receptors\
+HGNC:4540	CXCR3	C-X-C motif chemokine receptor 3	Approved	gene with protein product	GPR9	CKR-L2, CMKAR3, IP10-R, MigR, CD183	Xq13.1	2833	ENSG00000186810	OTTHUMG00000033326	1094	C-X-C motif chemokine receptors\
+HGNC:2561	CXCR4	C-X-C motif chemokine receptor 4	Approved	gene with protein product		LESTR, NPY3R, HM89, NPYY3R, D2S201E, fusin, HSY3RR, NPYR, CD184	2q22.1	7852	ENSG00000121966	OTTHUMG00000153583	1094	C-X-C motif chemokine receptors\
+HGNC:1060	CXCR5	C-X-C motif chemokine receptor 5	Approved	gene with protein product	BLR1	MDR15, CD185	11q23.3	643	ENSG00000160683	OTTHUMG00000166345	1094	C-X-C motif chemokine receptors\
+HGNC:16647	CXCR6	C-X-C motif chemokine receptor 6	Approved	gene with protein product		TYMSTR, STRL33, BONZO, CD186	3p21.31	10663	ENSG00000172215	OTTHUMG00000133448	1094	C-X-C motif chemokine receptors\
+HGNC:1625	XCR1	X-C motif chemokine receptor 1	Approved	gene with protein product	GPR5, CCXCR1		3p21.31	2829	ENSG00000173578	OTTHUMG00000133449	1092	X-C motif chemokine receptors}

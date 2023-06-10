@@ -46,21 +46,11 @@ gene_name = os.path.splitext(os.path.basename(args.codeml_results))[0]
 with open(args.output_file, 'w') as f:
     for key, value in p_values.items():
         omega = 'dN/ds_close_to_1'
-        if value <= 0.05 / 2:
+        if value <= 0.05 : #slettet /2
             site = max(results["NSsites"][key]["parameters"]["site classes"].keys())
             omega = results["NSsites"][key]["parameters"]["site classes"][site]["omega"]
-            with open("significant_chi2_AM_ny.txt", "a") as s:
+            with open("chemo_chi2.txt", "a") as s:
                 print(gene_name, ":", "model =", key, ", p-value =", value, ", omega =", omega, file=s, sep=" ")
         print(gene_name, ":", "model =", key, ", p-value =", value, ", omega =", omega, file=f, sep=" ")
-
-#for key, value in p_values.items():
-#    omega = 'dN/dS_close_to1'
-#    with open(args.output_file, 'w') as f:
-#        if value <= 1: #0.05 / 2:
-#            maxsite = max(results["NSsites"][key]["parameters"]["site classes"].keys())
-#            omega = results["NSsites"][key]["parameters"]["site classes"][maxsite]["omega"]
-#            with open("significant_chi2.txt", "a") as s:
-#                print(gene_name, key, value, omega, sep=",")
-#        print(gene_name, key, value, omega, file=f, sep=',')
 
 

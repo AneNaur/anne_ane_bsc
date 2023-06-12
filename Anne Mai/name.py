@@ -1,5 +1,5 @@
 with open('names.txt', 'r') as file:
-    next(file)  # Spring over headerlinjen
+    next(file)  
     for line in file:
         columns = line.split()
         approved_symbol = columns[1]
